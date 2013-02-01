@@ -1,2 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
+
+main (){
+
+	printf("PUSH NATIN YAN!")
+}
 
